@@ -2,7 +2,14 @@
 <h3 align="center">An Undergraduate Student In Information Systems</h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" />
+  <!--
+<img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" />
+<img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" />
+ -->
+  
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+</p>
 <!-- <p align="left"> <img src="" alt="manulmax" /> </p> -->
 
 - 📝 I regulary write articles on [http://talkwithbatman.home.blog/](http://talkwithbatman.home.blog/)
