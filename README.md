@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manulmadara9725@gmail.com**
 
-- ⚡ Fun fact **Find The Real Taste Of Coding. That Makes You Funny**
+- ⚡  **Find The Real Taste Of Coding. That Makes You Funny**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
