@@ -1,5 +1,6 @@
 <h1 align="center" style="background-color:#373738;">Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manul</h1>
-<h3 align="center" style="background-color:#373738;">An Undergraduate Student In Information Systems</h3>
+<h3 align="center">An Undergraduate Student In Information Systems</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /> </p>
 <!-- <p align="left"> <img src="" alt="manulmax" /> </p> -->
