@@ -2,6 +2,7 @@
 <h3 align="center" style="background-color:#373738;">An Undergraduate Student In Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /> </p>
 
 - 📝 I regulary write articles on [http://talkwithbatman.home.blog/](http://talkwithbatman.home.blog/)
 
