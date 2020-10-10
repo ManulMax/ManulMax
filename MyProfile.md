@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manulmadara9725@gmail.com**
 
-- ⚡  **Find The Real Taste Of Coding. That Makes You Funny**
+- ⚡  **Contribute to the opensource is one of the best thing you can do in life**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manulmax&theme=dark&show_icons=true" alt="manulmax" /></p>
 
