@@ -1,7 +1,7 @@
 <h1 align="center" style="background-color:#373738;">Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manul</h1>
 <h3 align="center">An Undergraduate Student In Information Systems</h3>
 <hr>
-	:flag_lk:
+	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /></p>
 
 ![](https://img.shields.io/badge/Linux-&#128150;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Coding-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Working-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Studying-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Sleeping-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Contributing-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Searching-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/competiting-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Innovating-&#128150;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334)
@@ -25,7 +25,10 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?view_as=subscriber" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/msucoders_ha20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="msucoders_ha20" height="30" width="40" /></a>
 </p>
-
-
+<p>
+&#127473;&#127472;
+	:flag_lk:
+</p>
+	
 
 
