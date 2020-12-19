@@ -10,7 +10,7 @@
 
 - 📝 I regulary write articles on [http://talkwithbatman.home.blog/](http://talkwithbatman.home.blog/)
 
-- 📫 How to reach me **manulmadara9725@gmail.com**
+- 📫 You can mail me **manulmadara9725@gmail.com**
 
 - ⚡  **Contribute to the opensource is one of the best thing you can do in life**
 
