@@ -12,7 +12,7 @@
 
 - 📫 You can mail me **manulmadara9725@gmail.com**
 
-- ⚡  **Contribute To The Opensource Is One Of The Best Thing You Can Do In Life**
+- ⚡  **Contribute To The Opensource Is One Of The Best Thing You Can Do In Your Life**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manulmax&theme=dark&show_icons=true" alt="manulmax" /></p>
 
