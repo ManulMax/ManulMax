@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <img src="" alt="manulmax" /> </p> -->
 
-- 📝 I regulary write articles on [http://talkwithbatman.home.blog/](http://talkwithbatman.home.blog/)
+- 📝 I regulary write articles on  [http://talkwithbatman.home.blog/](http://talkwithbatman.home.blog/)
 
 - 📫 You can mail me **manulmadara9725@gmail.com**
 
