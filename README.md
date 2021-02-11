@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/manul madara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manul madara" height="30" width="40" /></a>
 <a href="https://kaggle.com/msucoders_ha20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="msucoders_ha20" height="30" width="40" /></a>
 <a href="https://instagram.com/manul_madara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manul_madara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?view_as=subscriber" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq?view_as=subscriber" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/msucoders_ha20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="msucoders_ha20" height="30" width="40" /></a>
 
 </p>
