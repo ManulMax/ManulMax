@@ -1,10 +1,10 @@
 <h1 align="center" style="background-color:#373738;">Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <b> I'm Manul</b></h1>
 <h3 align="center">An Undergraduate In Information Systems &#127473;&#127472;</h3>
 <hr>
-	
+<!--	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manulmax&label=Profile%20views&color=0e75b6&style=flat" alt="manulmax" /></p>
-
-
+![](https://img.shields.io/badge/Linux-&#128150;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Coding-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Working-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Studying-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Sleeping-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Contributing-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Searching-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/competiting-&#128077;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334) ![](https://img.shields.io/badge/Innovating-&#128150;-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=323334)
+-->
 
 <!-- <p align="left"> <img src="" alt="manulmax" /> </p> -->
 
