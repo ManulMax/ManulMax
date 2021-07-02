@@ -14,8 +14,8 @@
 
 - ⚡  **Contribute To The Opensource Is One Of The Best Thing You Can Do In Your Life**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manulmax&theme=dark&show_icons=true" alt="manulmax" /></p>
-
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manulmax&theme=dark&show_icons=true" alt="manulmax" /></p>
+ -->
 <p align="center" style="background-color:#373738;">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/https://dev.to/manulmax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/manulmax" height="30" width="40" /></a>
