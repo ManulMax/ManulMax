@@ -25,6 +25,8 @@
 <a href="https://www.youtube.com/channel/UCPC18Epsya_qbEF7qU1mOQQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpc18epsya_qbef7qu1moqq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/msucoders_ha20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="msucoders_ha20" height="30" width="40" /></a>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="manulmad" data-color="#383838" data-emoji=""  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 </p>
 
 	
