@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:#373738;">Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <b> I'm Manul</b></h1>
+<h1 align="center" style="background-color:#373738;">Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, <b> I'm Manul</b></h1>
 <h3 align="center">An Undergraduate In Information Systems &#127473;&#127472;</h3>
 <hr>
 <!--	
